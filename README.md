@@ -1,5 +1,5 @@
 # Numerical Analysis in C++
-This repository contains a mid-term exam about numerical analysis in C++, targetting root-finding and linear equation systems solver methods.
+This repository contains a mid-term exam solution about numerical analysis in C++, targetting root-finding and linear equation systems solver methods.
 
 ## Contents
 - `exparcial_1.cpp`: C++ source code for the first part of the exam.
